@@ -136,7 +136,7 @@
       {
         "title": "Skyhold War Table",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Stormwind Large Wooden Table",
@@ -146,7 +146,7 @@
       {
         "title": "Fel Hammer Scouting Map",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Golden Loa's Altar",
@@ -161,7 +161,7 @@
       {
         "title": "Five Dawns Planning Table",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Square Draenic Table",
@@ -176,7 +176,7 @@
       {
         "title": "Ebon Blade Planning Map",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Orcish Warlord's Planning Table",
@@ -245,13 +245,13 @@
       },
       {
         "title": "Ornate Suramar Table",
-        "price": 20.33,
-        "usPrice": 22.61
+        "price": 6.156,
+        "usPrice": 8.549999999999999
       },
       {
         "title": "Uncrowned Planning Table",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Undermine Rectangular Table",
@@ -298,7 +298,7 @@
       {
         "title": "Demonic Storage Chest",
         "price": 14.6205,
-        "usPrice": 20.9
+        "usPrice": 18.05
       },
       {
         "title": "Tiragarde Treasure Chest",
@@ -312,8 +312,8 @@
       },
       {
         "title": "Lordaeron Banded Barrel",
-        "price": 13.081499999999998,
-        "usPrice": 18.05
+        "price": 12.16,
+        "usPrice": 13.585
       },
       {
         "title": "Draenic Bookcase",
@@ -323,7 +323,7 @@
       {
         "title": "Silver Hand Weapon Rack",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Ebon Blade Weapon Rack",
@@ -342,8 +342,8 @@
       },
       {
         "title": "Dragon's Hoard Chest",
-        "price": 13.081499999999998,
-        "usPrice": 18.05
+        "price": 8.17,
+        "usPrice": 9.025
       },
       {
         "title": "Empty Lorewalker's Bookcase",
@@ -352,8 +352,8 @@
       },
       {
         "title": "Lordaeron Spiked Weapon Rack",
-        "price": 13.081499999999998,
-        "usPrice": 18.05
+        "price": 12.16,
+        "usPrice": 13.585
       },
       {
         "title": "Shadowforge Wooden Box",
@@ -407,8 +407,8 @@
       },
       {
         "title": "Lordaeron Banded Crate",
-        "price": 13.081499999999998,
-        "usPrice": 18.05
+        "price": 12.16,
+        "usPrice": 13.585
       },
       {
         "title": "Valdrakken Bookcase",
@@ -447,8 +447,8 @@
       },
       {
         "title": "Screw-Sealed Stembarrel",
-        "price": 16.929,
-        "usPrice": 22.799999999999997
+        "price": 15.389999999999999,
+        "usPrice": 16.245
       },
       {
         "title": "Stormwind Footlocker",
@@ -494,8 +494,8 @@
       },
       {
         "title": "Draconic Nesting Bed",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Admiral's Bed",
@@ -509,13 +509,13 @@
       },
       {
         "title": "Cozy Four-Pipe Bed",
-        "price": 6.156,
-        "usPrice": 8.549999999999999
+        "price": 4.085,
+        "usPrice": 4.56
       },
       {
         "title": "Brill Coffin",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Orcish Sleeping Cot",
@@ -539,8 +539,8 @@
       },
       {
         "title": "Wise Pandaren's Bed",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Golden Zandalari Bed",
@@ -566,8 +566,8 @@
       },
       {
         "title": "Pandaren Fireplace",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Tidesage's Fireplace",
@@ -581,8 +581,8 @@
       },
       {
         "title": "Boulder Springs Hot Tub",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Cenarion Privacy Screen",
@@ -621,23 +621,23 @@
       },
       {
         "title": "Valdrakken Hanging Cauldron",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Brill Coffin",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Brennadam Grinder",
-        "price": 8.4645,
-        "usPrice": 12.35
+        "price": 4.9399999999999995,
+        "usPrice": 5.415
       },
       {
         "title": "Tirisgarde War Map",
         "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
+        "usPrice": 27.075
       },
       {
         "title": "Tusked Fireplace",
