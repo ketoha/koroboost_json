@@ -8,19 +8,19 @@
       },
       {
         "title": "Verdant Valdrakken Vase",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       }
     ],
     "largeFoliage": [
       {
         "title": "Hollow Night Fae Shrine",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Replica Forge of the Roaring Mountain",
-        "price": 74.1,
+        "price": 68.4,
         "usPrice": 74.1
       },
       {
@@ -44,12 +44,12 @@
     "miscellaneousNatureDecor": [
       {
         "title": "Ardenweald Lamppost",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Eerie Iridescent Riftshroom",
-        "price": 23.8,
+        "price": 21.4,
         "usPrice": 23.8
       },
       {
@@ -59,12 +59,12 @@
       },
       {
         "title": "Hollow Night Fae Shrine",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Overgrown Arathi Trellis",
-        "price": 23.8,
+        "price": 21.4,
         "usPrice": 23.8
       },
       {
@@ -84,8 +84,8 @@
       },
       {
         "title": "Verdant Valdrakken Vase",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       }
     ]
   }
