@@ -3,8 +3,8 @@
     "Ornamental": [
       {
         "title": "Altar of the Corrupted Flames",
-        "price": 31.59,
-        "usPrice": 49
+        "price": 10.7,
+        "usPrice": 11.9
       },
       {
         "title": "Old Salt's Fireplace",
@@ -24,7 +24,7 @@
       {
         "title": "Sentinel's Moonwing Gaze",
         "price": 15.39,
-        "usPrice": 22
+        "usPrice": 19
       },
       {
         "title": "Replica Libram of Ancient Kings",
@@ -64,7 +64,7 @@
       {
         "title": "Earthen Ring Scouting Map",
         "price": 21.06,
-        "usPrice": 29
+        "usPrice": 28.5
       },
       {
         "title": "Replica Altar of the Eternal Hunt",
@@ -88,8 +88,8 @@
       },
       {
         "title": "Literature of Taelloch",
-        "price": 35.64,
-        "usPrice": 49
+        "price": 25.6,
+        "usPrice": 34.2
       },
       {
         "title": "Worgen's Chicken Coop",
@@ -184,7 +184,7 @@
       {
         "title": "Unseen Path Archer's Gallery",
         "price": 21.06,
-        "usPrice": 29
+        "usPrice": 28.5
       },
       {
         "title": "Stonebull Canoe",
@@ -228,8 +228,8 @@
       },
       {
         "title": "Skyhorn Arrow Kite",
-        "price": 6.48,
-        "usPrice": 9
+        "price": 4.3,
+        "usPrice": 4.8
       },
       {
         "title": "Tome of the Lost Dragon",
@@ -238,8 +238,8 @@
       },
       {
         "title": "Rocket-Unpowered Rocket",
-        "price": 13.77,
-        "usPrice": 19
+        "price": 8.6,
+        "usPrice": 9.5
       },
       {
         "title": "Horde Battlefield Banner",
@@ -268,8 +268,8 @@
       },
       {
         "title": "Reinforced Goblin Umbrella",
-        "price": 13.77,
-        "usPrice": 19
+        "price": 8.6,
+        "usPrice": 9.5
       },
       {
         "title": "Warsong Outriders Flag",
@@ -304,7 +304,7 @@
       {
         "title": "Collection of Arathi Scripture",
         "price": 29.16,
-        "usPrice": 39
+        "usPrice": 34.8
       },
       {
         "title": "Small Purple Suramar Seat Cushion",
@@ -343,13 +343,13 @@
       },
       {
         "title": "Literature of Dornogal",
-        "price": 35.64,
-        "usPrice": 49
+        "price": 25.6,
+        "usPrice": 34.2
       },
       {
         "title": "Literature of Gundargaz",
-        "price": 35.64,
-        "usPrice": 49
+        "price": 25.6,
+        "usPrice": 34.2
       },
       {
         "title": "Red Crane Kite",
@@ -400,8 +400,8 @@
       },
       {
         "title": "Dwarven District Banner",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Emblem of the Naaru's Blessing",
@@ -415,8 +415,8 @@
       },
       {
         "title": "Gilded Dalaran Banner",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Gilded Silvermoon Hanger",
@@ -435,13 +435,13 @@
       },
       {
         "title": "Grand Drape of the Exiles",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Grand Mask of Bwonsamdi, Loa of Graves",
-        "price": 17.82,
-        "usPrice": 24
+        "price": 17.1,
+        "usPrice": 19
       },
       {
         "title": "Home Defense Gadget",
@@ -465,8 +465,8 @@
       },
       {
         "title": "Kirin Tor Skyline Banner",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Nesingwary Elk Trophy",
@@ -480,8 +480,8 @@
       },
       {
         "title": "\"Night on the Jeweled Estate\" Painting",
-        "price": 21.06,
-        "usPrice": 29
+        "price": 17.1,
+        "usPrice": 18.1
       },
       {
         "title": "On'ohia's Call",
@@ -500,13 +500,13 @@
       },
       {
         "title": "Outland Mag'har Banner",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Proudmoore Green Drape",
-        "price": 17.82,
-        "usPrice": 24
+        "price": 8.6,
+        "usPrice": 9.5
       },
       {
         "title": "\"Raising Your Eyes\" Painting",
@@ -515,8 +515,8 @@
       },
       {
         "title": "Replica Awakening Machine Stasis Pod",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Resizable All-Purpose Gear",
@@ -545,18 +545,18 @@
       },
       {
         "title": "Small Mask of Bwonsamdi, Loa of Graves",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Steel Ironforge Emblem",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Tapestry of the Five Flights",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "The Great Hoard",
@@ -576,7 +576,7 @@
       {
         "title": "Unseen Path Archer's Gallery",
         "price": 21.06,
-        "usPrice": 29
+        "usPrice": 28.5
       },
       {
         "title": "Valarjar Shield Wall",
@@ -590,35 +590,35 @@
       },
       {
         "title": "Zanchuli Tapestry",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       }
     ],
     "foodAndDrink": [
       {
         "title": "Bejeweled Venthyr Chalice",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Boralus-Style Lobster Platter",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Bruffalon Rib Platter",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Caramel Mint Noodle Dish",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Decorative Cinder Honeypot",
-        "price": 6.48,
-        "usPrice": 9
+        "price": 4.3,
+        "usPrice": 4.8
       },
       {
         "title": "Dornic Mine and Cheese Platter",
@@ -627,8 +627,8 @@
       },
       {
         "title": "Dornic Sliced Mineloaf",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Draenor Cookpot",
@@ -637,8 +637,8 @@
       },
       {
         "title": "Drake Kebab Platter",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Dried Whitewash Corn",
@@ -647,8 +647,8 @@
       },
       {
         "title": "Earthen Hospitality Cheese-Like Brick",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Elegant Dracthyr's Tea Cup",
@@ -672,13 +672,13 @@
       },
       {
         "title": "Gilnean Celebration Keg",
-        "price": 13.77,
-        "usPrice": 19
+        "price": 8.6,
+        "usPrice": 9.5
       },
       {
         "title": "Halfhill Cookpot",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Hungry Human's Platter",
@@ -687,8 +687,8 @@
       },
       {
         "title": "Kaheti Predator's Assortment",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Kaldorei Washbasin",
@@ -737,13 +737,13 @@
       },
       {
         "title": "Tauren Soup Pot",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Valdrakken Blossomfruit Platter",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Wooden Mug",
@@ -757,8 +757,8 @@
       },
       {
         "title": "Zuldazar Cook's Griddle",
-        "price": 17.82,
-        "usPrice": 24
+        "price": 10.5,
+        "usPrice": 13.3
       }
     ],
     "floorDecor": [
@@ -774,8 +774,8 @@
       },
       {
         "title": "Camp Narache Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Cenarion Rectangular Rug",
@@ -784,13 +784,13 @@
       },
       {
         "title": "Cenarion Round Rug",
-        "price": 13.77,
-        "usPrice": 19
+        "price": 12.8,
+        "usPrice": 14.3
       },
       {
         "title": "Circular Shal'dorei Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Circular Sin'dorei Rug",
@@ -799,13 +799,13 @@
       },
       {
         "title": "Dornogal Framed Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Draconic Circular Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Dreadscar Dais",
@@ -814,13 +814,13 @@
       },
       {
         "title": "Elder Rise Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Embossed Sin'dorei Fur Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Forsaken Round Rug",
@@ -834,8 +834,8 @@
       },
       {
         "title": "Loch Modan Bearskin Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Long Sin'dorei Rug",
@@ -849,13 +849,13 @@
       },
       {
         "title": "Pandaren Fishing Net",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Pandaren Meander Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Rectangular Sin'dorei Rug",
@@ -864,8 +864,8 @@
       },
       {
         "title": "Red Dazar'alor Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Stitched Haranir Rug",
@@ -874,8 +874,8 @@
       },
       {
         "title": "Zhevra-Stripe Rug",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 7.8
       }
     ],
     "miscellaneousAccents": [
@@ -901,18 +901,18 @@
       },
       {
         "title": "Brill Coffin",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Brill Coffin Lid",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Brilliant Phoenix Harp",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Drained Dark Heart of Galakrond",
@@ -931,8 +931,8 @@
       },
       {
         "title": "Gilnean Problem Solver",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 7.8
       },
       {
         "title": "Gnomish Safety Flamethrower",
@@ -951,8 +951,8 @@
       },
       {
         "title": "Highmountain Tanner's Frame",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Kobold Trassure Pile",
@@ -971,8 +971,8 @@
       },
       {
         "title": "Moonclasp Satchel",
-        "price": 6.48,
-        "usPrice": 9
+        "price": 4.3,
+        "usPrice": 4.8
       },
       {
         "title": "N'Zoth's Captured Eye",
@@ -1027,7 +1027,7 @@
       {
         "title": "Tauren Jeweler's Roller",
         "price": 6.48,
-        "usPrice": 9
+        "usPrice": 7.6
       },
       {
         "title": "Tauren Storyteller's Frame",
@@ -1036,8 +1036,8 @@
       },
       {
         "title": "Thaldraszus Telescope",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.5,
+        "usPrice": 8.1
       },
       {
         "title": "Vertical Felsteel Chain",
