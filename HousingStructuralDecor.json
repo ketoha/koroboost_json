@@ -1,0 +1,728 @@
+{
+  "HousingStructuralDecor": {
+    "doors": [
+      {
+        "title": "Dalaran Sewer Gate",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Iron Dragonmaw Gate",
+        "price": 290.79,
+        "usPrice": 399
+      },
+      {
+        "title": "Iron-Reinforced Door",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Sturdy Wooden Interior Door",
+        "price": 4.8,
+        "usPrice": 4.8
+      }
+    ],
+    "wallsAndColumns": [
+      {
+        "title": "Bel'ameth Beam Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Bel'ameth Interior Doorway",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Bel'ameth Interior Wall",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Bel'ameth Large Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Bel'ameth Round Interior Pillar",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Gilnean Stone Wall",
+        "price": 19,
+        "usPrice": 19
+      },
+      {
+        "title": "Orgrimmar Interior Doorway",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Orgrimmar Interior Wall",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Orgrimmar Large Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Orgrimmar Round Interior Pillar",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Silvermoon Beam Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Silvermoon Interior Doorway",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Silvermoon Interior Wall",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Silvermoon Round Interior Pillar",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Stormwind Beam Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Stormwind Interior Doorway",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Stormwind Interior Narrow Wall",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Stormwind Interior Wall",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Stormwind Large Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Stormwind Round Platform",
+        "price": 4.8,
+        "usPrice": 4.8
+      }
+    ],
+    "windows": [
+      {
+        "title": "Elaborate Suramar Window",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Elven Floral Window",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Goldshire Window",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Iron-Studded Wooden Window",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Meadery Ochre Window",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Octagonal Ochre Window",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Ornate Ochre Window",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Sagehold Window",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Shaded Suramar Window",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Suramar Window",
+        "price": 6.48,
+        "usPrice": 9
+      }
+    ],
+    "largeStructures": [
+      {
+        "title": "Angled Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Arcan'dor Cutting Fountain",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Automated Gnomeregan Guardian",
+        "price": 29.5,
+        "usPrice": 29.5
+      },
+      {
+        "title": "Bradensbrook Thorned Well",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Brennadam Coop",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Candle-Festooned Wooden Awning",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Cenarion Arch",
+        "price": 21.06,
+        "usPrice": 29
+      },
+      {
+        "title": "Copper Stormsong Well",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Corner Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Corruption Pit",
+        "price": 7.29,
+        "usPrice": 12
+      },
+      {
+        "title": "Dark Iron Expedition Tent",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Dazar'alor Market Tent",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Deactivated Atomic Recalibrator",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Deactivated K'areshi Warp Cannon",
+        "price": 86.5,
+        "usPrice": 86.5
+      },
+      {
+        "title": "Dilapidated Wildhammer Well",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Dreadscar Dais",
+        "price": 11.34,
+        "usPrice": 15
+      },
+      {
+        "title": "Embroidered Embaari Tent",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Exposed Angled Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Exposed Corner Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Exposed Intersecting Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Exposed Long Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Fallside Storage Tent",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Fel Fountain",
+        "price": 17.01,
+        "usPrice": 39
+      },
+      {
+        "title": "Freywold Fountain",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Frostwall Forge",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Green Boralus Market Tent",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Iron Dragonmaw Gate",
+        "price": 290.79,
+        "usPrice": 399
+      },
+      {
+        "title": "Jade Temple Dragon Fountain",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Jewelcrafter's Tent",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "K'areshi Protectorate Portal",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "K'areshi Warp Platform",
+        "price": 50.22,
+        "usPrice": 69
+      },
+      {
+        "title": "Large Forsaken War Tent",
+        "price": 21.06,
+        "usPrice": 29
+      },
+      {
+        "title": "Large Karabor Fountain",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Legion Torture Rack",
+        "price": 48.6,
+        "usPrice": 75
+      },
+      {
+        "title": "Little Wolf's Loo",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Long Ethereal Pipe Segment",
+        "price": 35.64,
+        "usPrice": 49
+      },
+      {
+        "title": "Magistrix's Garden Fountain",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Maldraxxian Runic Tablet",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Mechagon Armory Rack",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Mechagon Armory Rack",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Monastery Gong",
+        "price": 11.34,
+        "usPrice": 15
+      },
+      {
+        "title": "Paw'don Well",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Portal to Damnation",
+        "price": 404.19,
+        "usPrice": 449
+      },
+      {
+        "title": "Red Dazar'alor Tent",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Redundant Reclamation Rig",
+        "price": 17.82,
+        "usPrice": 24
+      },
+      {
+        "title": "Reinforced Corner Ethereal Pipe Segment",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Replica Acherus Soul Forge",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Replica Cursed Forge of the Nathrezim",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Replica Dark Iron Mole Machine",
+        "price": 14.3,
+        "usPrice": 14.3
+      },
+      {
+        "title": "Replica Forge of Odyn",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Rocket-Powered Fountain",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Shadowmoon Greenhouse",
+        "price": 38,
+        "usPrice": 38
+      },
+      {
+        "title": "Small Forsaken War Tent",
+        "price": 76,
+        "usPrice": 76
+      },
+      {
+        "title": "Small Karabor Fountain",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Stormwind Gazebo",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Tauren Waterwheel",
+        "price": 33.3,
+        "usPrice": 33.3
+      },
+      {
+        "title": "Tauren Windmill",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Uncrowned Market Stall",
+        "price": 32.3,
+        "usPrice": 32.3
+      },
+      {
+        "title": "Valdrakken Garden Fountain",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Waxmaster's Candle Rack",
+        "price": 23.8,
+        "usPrice": 23.8
+      }
+    ],
+    "miscellaneous": [
+      {
+        "title": "Coreway Sentinel Lamppost",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Dilapidated Wildhammer Well",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Draconic Crafter's Forge",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Elwynn Fence",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Elwynn Fencepost",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Gilnean Stone Wall",
+        "price": 19,
+        "usPrice": 19
+      },
+      {
+        "title": "Gnomish Fence",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Gnomish Fencepost",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Gnomish Tesla Mega-Coil",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Gnomish Tesla Tower",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Hanging Felsteel Cage",
+        "price": 15.39,
+        "usPrice": 22
+      },
+      {
+        "title": "Ironforge Fence",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Ironforge Fencepost",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Kaldorei Stone Fence",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Lordaeron Fence",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Lordaeron Fencepost",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Nightborne Fireplace",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Old Salt's Fireplace",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Orcish Fence",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Orcish Fencepost",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Ornate Stonework Fireplace",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Pandaren Fireplace",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Pandaren Stone Lamppost",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Pandaren Stone Post",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Pandaren Stone Wall",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Paw'don Well",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Redundant Reclamation Rig",
+        "price": 17.82,
+        "usPrice": 24
+      },
+      {
+        "title": "Replica Forge of the Roaring Mountain",
+        "price": 74.1,
+        "usPrice": 74.1
+      },
+      {
+        "title": "Seaworthy Boralus Bell",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Stormsong Water Pump",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Stormwind Arched Trellis",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Stormwind Trellis and Basin",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Sturdy Fireplace",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Suramar Containment Cell",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Suramar Fence",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Suramar Fencepost",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Tauren Fencepost",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Tauren Leather Fence",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Thunder Bluff Totem",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Tidesage's Fireplace",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Tusked Fireplace",
+        "price": 4.8,
+        "usPrice": 4.8
+      },
+      {
+        "title": "Undermine Fence",
+        "price": 2.43
+      },
+      {
+        "title": "Undermine Fencepost",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Valdrakken Fence",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Valdrakken Fencepost",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Waning Wood Fence",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Zuldazar Fence",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Zuldazar Fencepost",
+        "price": 8.91,
+        "usPrice": 13
+      }
+    ]
+  }
+}
