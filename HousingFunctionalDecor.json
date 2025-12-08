@@ -1,0 +1,21 @@
+{
+  "HousingFunctionalDecor": {
+    "functionalDecor": [
+      {
+        "title": "Draenor Cookpot",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Gilnean Cauldron",
+        "price": 5.7,
+        "usPrice": 5.7
+      },
+      {
+        "title": "Halfhill Cookpot",
+        "price": 8.91,
+        "usPrice": 13
+      }
+    ]
+  }
+}
