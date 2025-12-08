@@ -3,7 +3,7 @@
     "Seating": [
       {
         "title": "Horde Warlord's Throne",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -103,7 +103,7 @@
       },
       {
         "title": "Stolen Ironforge Seat",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "title": "Square Draenic Table",
-        "price": 27.075,
+        "price": 24.415,
         "usPrice": 27.075
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "title": "Orcish Warlord's Planning Table",
-        "price": 541.5,
+        "price": 469.29999999999995,
         "usPrice": 541.5
       },
       {
@@ -235,7 +235,7 @@
       },
       {
         "title": "Architect's Drafting Table",
-        "price": 541.5,
+        "price": 469.29999999999995,
         "usPrice": 541.5
       },
       {
@@ -245,7 +245,7 @@
       },
       {
         "title": "Ornate Suramar Table",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -297,7 +297,8 @@
     "Storage": [
       {
         "title": "Demonic Storage Chest",
-        "usPrice": 1923.75
+        "price": 14.6205,
+        "usPrice": 20.9
       },
       {
         "title": "Tiragarde Treasure Chest",
@@ -326,7 +327,7 @@
       },
       {
         "title": "Ebon Blade Weapon Rack",
-        "price": 10.83,
+        "price": 9.025,
         "usPrice": 10.83
       },
       {
@@ -396,7 +397,7 @@
       },
       {
         "title": "Argussian Crate",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -411,12 +412,12 @@
       },
       {
         "title": "Valdrakken Bookcase",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
         "title": "Moon-Blessed Storage Crate",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -426,7 +427,7 @@
       },
       {
         "title": "Gilnean Banded Crate",
-        "price": 13.585,
+        "price": 12.16,
         "usPrice": 13.585
       },
       {
@@ -451,7 +452,7 @@
       },
       {
         "title": "Stormwind Footlocker",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -461,7 +462,7 @@
       },
       {
         "title": "Mecha-Storage Mecha-Chest",
-        "price": 27.075,
+        "price": 24.415,
         "usPrice": 27.075
       },
       {
@@ -518,22 +519,22 @@
       },
       {
         "title": "Orcish Sleeping Cot",
-        "price": 5.415,
+        "price": 4.9399999999999995,
         "usPrice": 5.415
       },
       {
         "title": "Sturdy Wooden Bed",
-        "price": 4.56,
+        "price": 4.085,
         "usPrice": 4.56
       },
       {
         "title": "Orgrimmar Tusked Bed",
-        "price": 4.56,
+        "price": 4.085,
         "usPrice": 4.56
       },
       {
         "title": "Blackrock Bunkbed",
-        "price": 5.415,
+        "price": 4.9399999999999995,
         "usPrice": 5.415
       },
       {
@@ -543,17 +544,17 @@
       },
       {
         "title": "Golden Zandalari Bed",
-        "price": 18.05,
+        "price": 16.245,
         "usPrice": 18.05
       },
       {
         "title": "Karabor Bed",
-        "price": 5.415,
+        "price": 4.9399999999999995,
         "usPrice": 5.415
       },
       {
         "title": "Gnomish Steam-Powered Bed",
-        "price": 5.415,
+        "price": 4.9399999999999995,
         "usPrice": 5.415
       }
     ],
@@ -570,12 +571,12 @@
       },
       {
         "title": "Tidesage's Fireplace",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
         "title": "Ornate Stonework Fireplace",
-        "price": 4.56,
+        "price": 4.085,
         "usPrice": 4.56
       },
       {
@@ -585,7 +586,7 @@
       },
       {
         "title": "Cenarion Privacy Screen",
-        "price": 22.61,
+        "price": 20.33,
         "usPrice": 22.61
       },
       {
@@ -610,12 +611,12 @@
       },
       {
         "title": "Sturdy Fireplace",
-        "price": 4.56,
+        "price": 4.085,
         "usPrice": 4.56
       },
       {
         "title": "Stolen Copy of the Blood Ledger",
-        "price": 27.075,
+        "price": 24.415,
         "usPrice": 27.075
       },
       {
@@ -640,12 +641,12 @@
       },
       {
         "title": "Tusked Fireplace",
-        "price": 4.56,
+        "price": 4.085,
         "usPrice": 4.56
       },
       {
         "title": "Iron-Reinforced Standing Mirror",
-        "price": 4.56,
+        "price": 4.085,
         "usPrice": 4.56
       },
       {
