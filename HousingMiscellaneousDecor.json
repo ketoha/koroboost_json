@@ -3,22 +3,22 @@
     "HousingMiscellaneousDecor": [
       {
         "title": "Amani Incense Burner",
-        "price": 41.8,
+        "price": 32.3,
         "usPrice": 41.8
       },
       {
         "title": "Amani Ritual Altar",
-        "price": 23.8,
+        "price": 21.4,
         "usPrice": 23.8
       },
       {
         "title": "Arakkoa Decoy Scarecrow",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Architect's Drafting Table",
-        "price": 570,
+        "price": 494,
         "usPrice": 570
       },
       {
@@ -28,33 +28,33 @@
       },
       {
         "title": "Bronze Banner of the Exiled",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Cartel Xy Capture Crate",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Chaotic Void Maw",
-        "price": 23.8,
+        "price": 21.4,
         "usPrice": 23.8
       },
       {
         "title": "Crystal Signpost",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Dalaran Post",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Dalaran Street Sign",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Dazar'alor Forge",
@@ -63,18 +63,18 @@
       },
       {
         "title": "Devouring Host Ritual Engine",
-        "price": 66.5,
+        "price": 57,
         "usPrice": 66.5
       },
       {
         "title": "Domanaar Control Console",
-        "price": 85.5,
+        "price": 76,
         "usPrice": 85.5
       },
       {
         "title": "Draconic Crafter's Forge",
-        "price": 6.48,
-        "usPrice": 9
+        "price": 4.3,
+        "usPrice": 4.8
       },
       {
         "title": "Draconic Memorial Stone",
@@ -83,42 +83,42 @@
       },
       {
         "title": "Draconic Scribe's Basin",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Draenei Holo-Projector Pedestal",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Draenei Transmitter",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Dreadscar Battle Planning Map",
         "price": 21.06,
-        "usPrice": 29
+        "usPrice": 28.5
       },
       {
         "title": "Fel Hammer Scouting Map",
         "price": 21.06,
-        "usPrice": 29
+        "usPrice": 28.5
       },
       {
         "title": "Gilnean Pitchfork",
-        "price": 5.7,
+        "price": 5.2,
         "usPrice": 5.7
       },
       {
         "title": "Gilnean Postbox",
-        "price": 5.7,
+        "price": 5.2,
         "usPrice": 5.7
       },
       {
         "title": "Gilnean Spare Saddle",
-        "price": 5.7,
+        "price": 5.2,
         "usPrice": 5.7
       },
       {
@@ -128,18 +128,18 @@
       },
       {
         "title": "Imperator's Torment Crystal",
-        "price": 66.5,
+        "price": 57,
         "usPrice": 66.5
       },
       {
         "title": "Kobold Wagon",
-        "price": 9.5,
+        "price": 8.6,
         "usPrice": 9.5
       },
       {
         "title": "Kyrian Anima Barrel",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Legion's Holo-Communicator",
@@ -153,12 +153,12 @@
       },
       {
         "title": "Reconstructed Mogu Lightning Drill",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Ren'dorei Warp Orb",
-        "price": 5.7,
+        "price": 5.2,
         "usPrice": 5.7
       },
       {
@@ -168,33 +168,33 @@
       },
       {
         "title": "Replica Rumbling Wastes Drill Pod",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Replica Saga of the Valarjar",
-        "price": 28.5,
+        "price": 25.7,
         "usPrice": 28.5
       },
       {
         "title": "Rocket-Unpowered Rocket",
-        "price": 13.77,
-        "usPrice": 19
+        "price": 8.6,
+        "usPrice": 9.5
       },
       {
         "title": "Sandfury Diplomat's Banner",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Snowfall Tribe Scare-Totem",
-        "price": 5.7,
+        "price": 5.2,
         "usPrice": 5.7
       },
       {
         "title": "Stoppered Black Potion",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Stormwind Arched Trellis",
@@ -203,7 +203,7 @@
       },
       {
         "title": "Stormwind Peddler's Cart",
-        "price": 23.8,
+        "price": 21.4,
         "usPrice": 23.8
       },
       {
@@ -218,43 +218,43 @@
       },
       {
         "title": "Talon King's Totem",
-        "price": 5.7,
+        "price": 5.2,
         "usPrice": 5.7
       },
       {
         "title": "Tauren Waterwheel",
-        "price": 33.3,
+        "price": 29.9,
         "usPrice": 33.3
       },
       {
         "title": "Tempest Keep Cryo-Pod",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Thaldraszus Telescope",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Tidesage's Totem",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Voidbound Holding Cell",
-        "price": 66.5,
+        "price": 57,
         "usPrice": 66.5
       },
       {
         "title": "Voltaic Trigore Egg",
-        "price": 66.5,
+        "price": 57,
         "usPrice": 66.5
       },
       {
         "title": "Wolvar Postbag",
-        "price": 8.91,
-        "usPrice": 13
+        "price": 5.2,
+        "usPrice": 5.7
       },
       {
         "title": "Wooden Doghouse",
@@ -263,7 +263,7 @@
       },
       {
         "title": "Wooden Outhouse",
-        "price": 4.8,
+        "price": 4.3,
         "usPrice": 4.8
       },
       {
