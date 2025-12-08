@@ -1,0 +1,663 @@
+{
+  "decorEU": {
+    "Seating": [
+      {
+        "title": "Horde Warlord's Throne",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Amirdrassil Stool",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Bolt Chair",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Nightborne Merchant's Stall",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Ornate Ironforge Bench",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Orange Suramar Seat Cushion",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Purple Suramar Seat Cushion",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Admiralty's Upholstered Chair",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Forsaken Spiked Chair",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Nightborne Bench",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Stormwind Wooden Bench",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Telredor Recliner",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Zuldazar Stool",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Rough Wooden Chair",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Relaxing Goblin Beach Chair with Cup Gripper",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Shal'dorei Seat",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Teal Suramar Seat Cushion",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Pandaren Cradle Stool",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Spring-Powered Undermine Chair",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Kaldorei Cushioned Seat",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Stolen Ironforge Seat",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Tirisfal Wooden Chair",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Stormwind Wooden Stool",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Valdrakken Stone Stool",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Red Suramar Seat Cushion",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Small Red Suramar Seat Cushion",
+        "price": 2.3085,
+        "usPrice": 3.8
+      }
+    ],
+    "Tables": [
+      {
+        "title": "Skyhold War Table",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Stormwind Large Wooden Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Fel Hammer Scouting Map",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Golden Loa's Altar",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Northshire Scribe's Desk",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Five Dawns Planning Table",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Square Draenic Table",
+        "price": 27.075,
+        "usPrice": 27.075
+      },
+      {
+        "title": "Pandaren Cooking Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Ebon Blade Planning Map",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Orcish Warlord's Planning Table",
+        "price": 541.5,
+        "usPrice": 541.5
+      },
+      {
+        "title": "Pentagonal Stone Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Covered Ornate Suramar Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Draconic Stone Table",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Small Gilnean Table",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Stormwind Workbench",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Double-Sprocket Table",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Draenic Wooden Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Elven Round Table",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Pandaren Scholar's Lectern",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Ornate Ironforge Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Architect's Drafting Table",
+        "price": 541.5,
+        "usPrice": 541.5
+      },
+      {
+        "title": "Undermine Round Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Ornate Suramar Table",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Uncrowned Planning Table",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Undermine Rectangular Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Forsaken Long Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Arcwine Counter",
+        "price": 3.8474999999999997,
+        "usPrice": 5.699999999999999
+      },
+      {
+        "title": "Forsaken Studded Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Round Dwarven Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Covered Small Suramar Table",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Cartel Head's Schmancy Desk",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Gnomish Sprocket Table",
+        "price": 2.3085,
+        "usPrice": 3.8
+      }
+    ],
+    "Storage": [
+      {
+        "title": "Demonic Storage Chest",
+        "usPrice": 1923.75
+      },
+      {
+        "title": "Tiragarde Treasure Chest",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Val'sharah Bookcase",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Lordaeron Banded Barrel",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Draenic Bookcase",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Silver Hand Weapon Rack",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Ebon Blade Weapon Rack",
+        "price": 10.83,
+        "usPrice": 10.83
+      },
+      {
+        "title": "Kaldorei Wall Shelf",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Suramar Library",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Dragon's Hoard Chest",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Empty Lorewalker's Bookcase",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Lordaeron Spiked Weapon Rack",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Shadowforge Wooden Box",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Tidesage's Bookcase",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Moon-Blessed Barrel",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Pandaren Pantry",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Bowhull Bookcase",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Elodor Armory Rack",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Tidesage's Double Bookshelves",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Pandaren Lacquered Crate",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Argussian Crate",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Pandaren Scholar's Bookcase",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Lordaeron Banded Crate",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Valdrakken Bookcase",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Moon-Blessed Storage Crate",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Blackrock Strongbox",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Gilnean Banded Crate",
+        "price": 13.585,
+        "usPrice": 13.585
+      },
+      {
+        "title": "Stormstout Brew Keg",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Undermine Bookcase",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Undermine Wall Shelf",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Screw-Sealed Stembarrel",
+        "price": 16.929,
+        "usPrice": 22.799999999999997
+      },
+      {
+        "title": "Stormwind Footlocker",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Zandalari Weapon Rack",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Mecha-Storage Mecha-Chest",
+        "price": 27.075,
+        "usPrice": 27.075
+      },
+      {
+        "title": "Open Rust-Plated Storage Crate",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Nightborne Wall Shelf",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      }
+    ],
+    "Beds": [
+      {
+        "title": "Sin'dorei Sleeper",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Shala'nir Feather Bed",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Deluxe Suramar Sleeper",
+        "price": 2.3085,
+        "usPrice": 3.8
+      },
+      {
+        "title": "Draconic Nesting Bed",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Admiral's Bed",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Rambleshire Resting Platform",
+        "price": 4.617,
+        "usPrice": 6.6499999999999995
+      },
+      {
+        "title": "Cozy Four-Pipe Bed",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Brill Coffin",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Orcish Sleeping Cot",
+        "price": 5.415,
+        "usPrice": 5.415
+      },
+      {
+        "title": "Sturdy Wooden Bed",
+        "price": 4.56,
+        "usPrice": 4.56
+      },
+      {
+        "title": "Orgrimmar Tusked Bed",
+        "price": 4.56,
+        "usPrice": 4.56
+      },
+      {
+        "title": "Blackrock Bunkbed",
+        "price": 5.415,
+        "usPrice": 5.415
+      },
+      {
+        "title": "Wise Pandaren's Bed",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Golden Zandalari Bed",
+        "price": 18.05,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Karabor Bed",
+        "price": 5.415,
+        "usPrice": 5.415
+      },
+      {
+        "title": "Gnomish Steam-Powered Bed",
+        "price": 5.415,
+        "usPrice": 5.415
+      }
+    ],
+    "Miscellaneous": [
+      {
+        "title": "Old Salt's Fireplace",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Pandaren Fireplace",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Tidesage's Fireplace",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Ornate Stonework Fireplace",
+        "price": 4.56,
+        "usPrice": 4.56
+      },
+      {
+        "title": "Boulder Springs Hot Tub",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Cenarion Privacy Screen",
+        "price": 22.61,
+        "usPrice": 22.61
+      },
+      {
+        "title": "Nightborne Fireplace",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Gnomish Cog Stack",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Replica Tome of the Ancients",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Golden Pandaren Privacy Screen",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      },
+      {
+        "title": "Sturdy Fireplace",
+        "price": 4.56,
+        "usPrice": 4.56
+      },
+      {
+        "title": "Stolen Copy of the Blood Ledger",
+        "price": 27.075,
+        "usPrice": 27.075
+      },
+      {
+        "title": "Valdrakken Hanging Cauldron",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Brill Coffin",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Brennadam Grinder",
+        "price": 8.4645,
+        "usPrice": 12.35
+      },
+      {
+        "title": "Tirisgarde War Map",
+        "price": 20.006999999999998,
+        "usPrice": 27.549999999999997
+      },
+      {
+        "title": "Tusked Fireplace",
+        "price": 4.56,
+        "usPrice": 4.56
+      },
+      {
+        "title": "Iron-Reinforced Standing Mirror",
+        "price": 4.56,
+        "usPrice": 4.56
+      },
+      {
+        "title": "Dragon's Grand Mirror",
+        "price": 13.081499999999998,
+        "usPrice": 18.05
+      },
+      {
+        "title": "Rusty Patchwork Tub",
+        "price": 6.156,
+        "usPrice": 8.549999999999999
+      }
+    ]
+  }
+}
