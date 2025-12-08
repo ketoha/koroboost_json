@@ -1,0 +1,92 @@
+{
+  "HousingNatureDecor": {
+    "smallFoliage": [
+      {
+        "title": "Spherical Draenic Topiary",
+        "price": 2.43,
+        "usPrice": 4
+      },
+      {
+        "title": "Verdant Valdrakken Vase",
+        "price": 8.91,
+        "usPrice": 13
+      }
+    ],
+    "largeFoliage": [
+      {
+        "title": "Hollow Night Fae Shrine",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Replica Forge of the Roaring Mountain",
+        "price": 74.1,
+        "usPrice": 74.1
+      },
+      {
+        "title": "Stormwind Arched Trellis",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Stormwind Trellis and Basin",
+        "price": 6.48,
+        "usPrice": 9
+      }
+    ],
+    "bushes": [
+      {
+        "title": "Spherical Draenic Topiary",
+        "price": 2.43,
+        "usPrice": 4
+      }
+    ],
+    "miscellaneousNatureDecor": [
+      {
+        "title": "Ardenweald Lamppost",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Eerie Iridescent Riftshroom",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Gilnean Noble's Trellis",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Hollow Night Fae Shrine",
+        "price": 8.91,
+        "usPrice": 13
+      },
+      {
+        "title": "Overgrown Arathi Trellis",
+        "price": 23.8,
+        "usPrice": 23.8
+      },
+      {
+        "title": "Seed of Ages Cutting",
+        "price": 13.77,
+        "usPrice": 19
+      },
+      {
+        "title": "Stormwind Arched Trellis",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Stormwind Trellis and Basin",
+        "price": 6.48,
+        "usPrice": 9
+      },
+      {
+        "title": "Verdant Valdrakken Vase",
+        "price": 8.91,
+        "usPrice": 13
+      }
+    ]
+  }
+}
