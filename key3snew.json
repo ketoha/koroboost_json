@@ -3,153 +3,153 @@
     "notime": [
       {
         "title": "6_noTime",
-        "price": 2.9164999999999996,
-        "usPrice": 5.1205
+        "price": 3.07,
+        "usPrice": 5.39
       },
       {
         "title": "7_noTime",
-        "price": 3.2205,
-        "usPrice": 5.310499999999999
+        "price": 3.39,
+        "usPrice": 5.59
       },
       {
         "title": "8_noTime",
-        "price": 3.2965,
-        "usPrice": 5.5954999999999995
+        "price": 3.47,
+        "usPrice": 5.89
       },
       {
         "title": "9_noTime",
-        "price": 3.2965,
-        "usPrice": 5.7855
+        "price": 3.47,
+        "usPrice": 6.09
       },
       {
         "title": "10_noTime",
-        "price": 3.4579999999999997,
-        "usPrice": 5.975499999999999
+        "price": 3.64,
+        "usPrice": 6.29
       },
       {
         "title": "11_noTime",
-        "price": 3.8379999999999996,
-        "usPrice": 6.8305
+        "price": 4.04,
+        "usPrice": 7.19
       },
       {
         "title": "12_noTime",
-        "price": 4.142,
-        "usPrice": 9.490499999999999
+        "price": 4.36,
+        "usPrice": 9.99
       },
       {
         "title": "13_noTime",
-        "price": 4.8355,
-        "usPrice": 10.3455
+        "price": 5.09,
+        "usPrice": 10.89
       },
       {
         "title": "14_noTime",
-        "price": 7.685499999999999,
-        "usPrice": 15.475499999999998
+        "price": 8.09,
+        "usPrice": 16.29
       },
       {
         "title": "15_noTime",
-        "price": 8.379,
-        "usPrice": 18.040499999999998
+        "price": 8.82,
+        "usPrice": 18.99
       },
       {
         "title": "16_noTime",
-        "price": 11.153,
-        "usPrice": 24.8805
+        "price": 11.74,
+        "usPrice": 26.19
       },
       {
         "title": "17_noTime",
-        "price": 13.8415,
-        "usPrice": 32.955499999999994
+        "price": 14.57,
+        "usPrice": 34.69
       },
       {
         "title": "18_noTime",
-        "price": 19,
-        "usPrice": 41.2205
+        "price": 20,
+        "usPrice": 43.39
       },
       {
         "title": "19_noTime",
-        "price": 28.281499999999998,
-        "usPrice": 60.7905
+        "price": 29.77,
+        "usPrice": 63.99
       },
       {
         "title": "20_noTime",
-        "price": 80.75,
-        "usPrice": 143.735
+        "price": 85,
+        "usPrice": 151.3
       },
       {
         "title": "6_inTime",
-        "price": 2.9164999999999996,
-        "usPrice": 5.1205
+        "price": 3.07,
+        "usPrice": 5.39
       },
       {
         "title": "7_inTime",
-        "price": 3.2205,
-        "usPrice": 5.310499999999999
+        "price": 3.39,
+        "usPrice": 5.59
       },
       {
         "title": "8_inTime",
-        "price": 3.2965,
-        "usPrice": 5.5954999999999995
+        "price": 3.47,
+        "usPrice": 5.89
       },
       {
         "title": "9_inTime",
-        "price": 3.2965,
-        "usPrice": 5.7855
+        "price": 3.47,
+        "usPrice": 6.09
       },
       {
         "title": "10_inTime",
-        "price": 3.4579999999999997,
-        "usPrice": 5.975499999999999
+        "price": 3.64,
+        "usPrice": 6.29
       },
       {
         "title": "11_inTime",
-        "price": 4.607499999999999,
-        "usPrice": 8.198500000000001
+        "price": 4.85,
+        "usPrice": 8.63
       },
       {
         "title": "12_inTime",
-        "price": 4.968500000000001,
-        "usPrice": 11.2385
+        "price": 5.23,
+        "usPrice": 11.83
       },
       {
         "title": "13_inTime",
-        "price": 5.8045,
-        "usPrice": 12.4165
+        "price": 6.11,
+        "usPrice": 13.07
       },
       {
         "title": "14_inTime",
-        "price": 9.2245,
-        "usPrice": 18.5725
+        "price": 9.71,
+        "usPrice": 19.55
       },
       {
         "title": "15_inTime",
-        "price": 10.051,
-        "usPrice": 21.650499999999997
+        "price": 10.58,
+        "usPrice": 22.79
       },
       {
         "title": "16_inTime",
-        "price": 13.385499999999999,
-        "usPrice": 29.8585
+        "price": 14.09,
+        "usPrice": 31.43
       },
       {
         "title": "17_inTime",
-        "price": 16.605999999999998,
-        "usPrice": 39.5485
+        "price": 17.48,
+        "usPrice": 41.63
       },
       {
         "title": "18_inTime",
-        "price": 23.7215,
-        "usPrice": 49.466499999999996
+        "price": 24.97,
+        "usPrice": 52.07
       },
       {
         "title": "19_inTime",
-        "price": 33.725,
-        "usPrice": 72.9505
+        "price": 35.5,
+        "usPrice": 76.79
       },
       {
         "title": "20_inTime",
-        "price": 96.15899999999999,
-        "usPrice": 160.34099999999998
+        "price": 101.22,
+        "usPrice": 168.78
       }
     ],
     "percents": [
