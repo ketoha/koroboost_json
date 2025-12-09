@@ -1,166 +1,90 @@
 {
   "key3s": {
-    "notime_US": [
+    "keyskoro": [
       {
-        "title": "6.38",
-        "price": 6,
-        "usPrice": 3.07
+        "title": "6_noTime",
+        "price": 3.07,
+        "usPrice": 5.39
       },
       {
-        "title": "7.31",
-        "price": 7,
-        "usPrice": 3.39
+        "title": "7_noTime",
+        "price": 3.39,
+        "usPrice": 5.59
       },
       {
-        "title": "11.25",
-        "price": 8,
-        "usPrice": 3.47
+        "title": "8_noTime",
+        "price": 3.47,
+        "usPrice": 5.89
       },
       {
-        "title": "11.25",
-        "price": 9,
-        "usPrice": 3.47
+        "title": "9_noTime",
+        "price": 3.47,
+        "usPrice": 6.09
       },
       {
-        "title": "17.4",
-        "price": 10,
-        "usPrice": 3.64
+        "title": "10_noTime",
+        "price": 3.64,
+        "usPrice": 6.29
       },
       {
-        "title": "20.18",
-        "price": 11,
-        "usPrice": 4.04
+        "title": "11_noTime",
+        "price": 4.04,
+        "usPrice": 7.19
       },
       {
-        "title": "27.71",
-        "price": 12,
-        "usPrice": 4.36
+        "title": "12_noTime",
+        "price": 4.36,
+        "usPrice": 9.99
       },
       {
-        "title": "35.96",
-        "price": 13,
-        "usPrice": 5.09
+        "title": "13_noTime",
+        "price": 5.09,
+        "usPrice": 10.89
       },
       {
-        "title": "45.01",
-        "price": 14,
-        "usPrice": 8.09
+        "title": "14_noTime",
+        "price": 8.09,
+        "usPrice": 16.29
       },
       {
-        "title": "64.96",
-        "price": 15,
-        "usPrice": 8.82
+        "title": "15_noTime",
+        "price": 8.82,
+        "usPrice": 18.99
       },
       {
-        "title": "151.3",
-        "price": 16,
-        "usPrice": 11.74
+        "title": "16_noTime",
+        "price": 11.74,
+        "usPrice": 26.19
       },
       {
-        "title": "",
-        "price": 17,
-        "usPrice": 14.57
+        "title": "17_noTime",
+        "price": 14.57,
+        "usPrice": 34.69
       },
       {
-        "title": "",
-        "price": 18,
-        "usPrice": 20
-      },
-      {
-        "title": "",
-        "price": 19,
-        "usPrice": 29.77
-      },
-      {
-        "title": "",
+        "title": "18_noTime",
         "price": 20,
-        "usPrice": 85
+        "usPrice": 43.39
       },
       {
-        "title": "time_US"
+        "title": "19_noTime",
+        "price": 29.77,
+        "usPrice": 63.99
       },
       {
-        "title": "6.38"
-      },
-      {
-        "title": "8.93"
-      },
-      {
-        "title": "11.83"
-      },
-      {
-        "title": "13.46"
-      },
-      {
-        "title": "20.88"
-      },
-      {
-        "title": "24.36"
-      },
-      {
-        "title": "32.48"
-      },
-      {
-        "title": "44.08"
-      },
-      {
-        "title": "52.71"
-      },
-      {
-        "title": "80.2"
-      },
-      {
-        "title": "168.78"
+        "title": "20_noTime",
+        "price": 85,
+        "usPrice": 151.3
       }
     ],
-    "usPrice": [
+    "percents": [
       {
-        "title": "5.39",
-        "usPrice": 0.4000225937641211
+        "title": "x4 loot-traders",
+        "price": 0.4000225937641211
       },
       {
-        "title": "5.59",
-        "price": 3,
-        "usPrice": 0.3000451875282422
-      },
-      {
-        "title": "5.89"
-      },
-      {
-        "title": "6.09"
-      },
-      {
-        "title": "6.29"
-      },
-      {
-        "title": "7.19"
-      },
-      {
-        "title": "9.99"
-      },
-      {
-        "title": "10.89"
-      },
-      {
-        "title": "16.29"
-      },
-      {
-        "title": "18.99"
-      },
-      {
-        "title": "26.19"
-      },
-      {
-        "title": "34.69"
-      },
-      {
-        "title": "43.39"
-      },
-      {
-        "title": "63.99"
-      },
-      {
-        "title": "151.3"
+        "title": "3k Mythic Score",
+        "price": 0.3000451875282422
       }
     ]
   }
