@@ -2,11 +2,6 @@
   "WorldsoulSearching": {
     "data": [
       {
-        "title": "full_completion",
-        "price": 384.7405,
-        "usPrice": 522.4905
-      },
-      {
         "title": "Select Achievements: Nerub-ar Palace",
         "price": 5.3865,
         "usPrice": 7.6
@@ -55,6 +50,13 @@
         "title": "Select Achievements: Unraveled and Persevering",
         "price": 68.4855,
         "usPrice": 94.05
+      }
+    ],
+    "data1": [
+      {
+        "title": "full_completion",
+        "price": 384.7405,
+        "usPrice": 522.4905
       }
     ]
   }
