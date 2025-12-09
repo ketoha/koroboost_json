@@ -1,0 +1,116 @@
+{
+  "bfaAchievements": {
+    "Achievement": [
+      {
+        "title": "Redundant Reclamation Rig",
+        "price": 12.4,
+        "usPrice": 15.6
+      },
+      {
+        "title": "Grand Mask of Bwonsamdi, Loa of Graves",
+        "price": 12.4,
+        "usPrice": 15.6
+      },
+      {
+        "title": "Dark Iron Brazier",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Bookcase of Gonk",
+        "price": 2.4,
+        "usPrice": 3.2
+      },
+      {
+        "title": "Lordaeron Banded Crate",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Gnomish Cog Stack",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Gnomish T.O.O.L.B.O.X.",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Old Salt's Fireplace",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Dazar'alor Forge",
+        "price": 12.4,
+        "usPrice": 15.6
+      },
+      {
+        "title": "Proudmoore Green Drape",
+        "price": 12.4,
+        "usPrice": 15.6
+      },
+      {
+        "title": "Zandalari Wall Shelf",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Dragon's Hoard Chest",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Idol of Pa'ku, Master of Winds",
+        "price": 2.4,
+        "usPrice": 3.2
+      },
+      {
+        "title": "Large Forsaken War Tent",
+        "price": 14.6,
+        "usPrice": 18.7
+      },
+      {
+        "title": "Screw-Sealed Stembarrel",
+        "price": 12.4,
+        "usPrice": 15.6
+      },
+      {
+        "title": "Golden Loa's Altar",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Tiragarde Treasure Chest",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Lordaeron Banded Barrel",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Lordaeron Spiked Weapon Rack",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Gilnean Celebration Keg",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Lordaeron Rectangular Rug",
+        "price": 24.8,
+        "usPrice": 31.8
+      },
+      {
+        "title": "Zuldazar Cook's Griddle",
+        "price": 12.4,
+        "usPrice": 15.6
+      }
+    ]
+  }
+}
