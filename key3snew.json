@@ -1,6 +1,6 @@
 {
   "key3snew": {
-    "keyskoro": [
+    "notime": [
       {
         "title": "6_noTime",
         "price": 2.9164999999999996,
@@ -77,14 +77,81 @@
         "usPrice": 143.735
       }
     ],
-    "percents": [
+    "intime": [
       {
-        "title": "x4 loot-traders",
-        "price": 0.4000225937641211
+        "title": "6_inTime",
+        "price": 2.9164999999999996,
+        "usPrice": 5.1205
       },
       {
-        "title": "3k Mythic Score",
-        "price": 0.3000451875282422
+        "title": "7_inTime",
+        "price": 3.2205,
+        "usPrice": 5.310499999999999
+      },
+      {
+        "title": "8_inTime",
+        "price": 3.2965,
+        "usPrice": 5.5954999999999995
+      },
+      {
+        "title": "9_inTime",
+        "price": 3.2965,
+        "usPrice": 5.7855
+      },
+      {
+        "title": "10_inTime",
+        "price": 3.4579999999999997,
+        "usPrice": 5.975499999999999
+      },
+      {
+        "title": "11_inTime",
+        "price": 4.607499999999999,
+        "usPrice": 8.198500000000001
+      },
+      {
+        "title": "12_inTime",
+        "price": 4.968500000000001,
+        "usPrice": 11.2385
+      },
+      {
+        "title": "13_inTime",
+        "price": 5.8045,
+        "usPrice": 12.4165
+      },
+      {
+        "title": "14_inTime",
+        "price": 9.2245,
+        "usPrice": 18.5725
+      },
+      {
+        "title": "15_inTime",
+        "price": 10.051,
+        "usPrice": 21.650499999999997
+      },
+      {
+        "title": "16_inTime",
+        "price": 13.385499999999999,
+        "usPrice": 29.8585
+      },
+      {
+        "title": "17_inTime",
+        "price": 16.605999999999998,
+        "usPrice": 39.5485
+      },
+      {
+        "title": "18_inTime",
+        "price": 23.7215,
+        "usPrice": 49.466499999999996
+      },
+      {
+        "title": "19_inTime",
+        "price": 33.725,
+        "usPrice": 72.9505
+      },
+      {
+        "title": "20_inTime",
+        "price": 96.15899999999999,
+        "usPrice": 160.34099999999998
       }
     ]
   }
