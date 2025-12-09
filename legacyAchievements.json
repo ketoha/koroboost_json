@@ -1,0 +1,261 @@
+{
+  "legacyAchievements": {
+    "Achievement": [
+      {
+        "title": "Nesingwary Elk Trophy",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Nesingwary Shoveltusk Trophy",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Kun-Lai Lacquered Rickshaw",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "?Night on the Jeweled Estate? Painting",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Skyhorn Storage Chest",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Kaldorei Treasure Trove",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Head of the Broodmother",
+        "price": 2.4,
+        "usPrice": 3.2
+      },
+      {
+        "title": "Tauren Jeweler's Roller",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Shadowforge Stone Chair",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Seed of Ages Cutting",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Conjured Altar of the Guardian",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Forge of Odyn",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Acherus Soul Forge",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Elemental Altar of the Maelstrom",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Altar of Light and Shadow",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Altar of Ancient Kings",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Altar of the Eternal Hunt",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Felblood Altar",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Cursed Forge of the Nathrezim",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Chronicle of Ages",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Tome of Blighted Implements",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Tome of the Ancients",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Tome of Fel Secrets",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Words of Wind and Earth",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Word of the Conclave",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Libram of Ancient Kings",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Conjured Altar of the Guardian",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Replica Tales of the Hunt",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Skyhold War Table",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Dreadscar Battle Planning Map",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Cenarion Arch",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Fel Hammer Scouting Map",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Uncrowned Planning Table",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Tirisgarde War Map",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Earthen Ring Scouting Map",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Netherlight Command Map",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Silver Hand Weapon Rack",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Five Dawns Planning Table",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Unseen Path Archer's Gallery",
+        "price": 14.6,
+        "usPrice": 18.8
+      },
+      {
+        "title": "Tirisgarde Book Tempest",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Valarjar Shield Wall",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Ebon Blade Planning Map",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Maelstrom Lava Lamp",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Monastery Gong",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Scroll of the Conclave",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Sanctum of Light Candelabra",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Trueshot Skeletal Dragon Trophy",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Dreadscar Dais",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Illidari Glaiverest",
+        "price": 7.9,
+        "usPrice": 9.7
+      },
+      {
+        "title": "Goldshire Food Cart",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Iron Dragonmaw Gate",
+        "price": 201.9,
+        "usPrice": 259.8
+      }
+    ]
+  }
+}
