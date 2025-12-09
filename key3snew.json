@@ -153,6 +153,16 @@
         "price": 96.15899999999999,
         "usPrice": 160.34099999999998
       }
+    ],
+    "percents": [
+      {
+        "title": "x4 loot-traders",
+        "price": 0.4000225937641211
+      },
+      {
+        "title": "3k Mythic Score",
+        "price": 0.3000451875282422
+      }
     ]
   }
 }
