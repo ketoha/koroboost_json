@@ -3,88 +3,88 @@
     "keyskoro": [
       {
         "title": "6_noTime",
-        "price": 3.07,
-        "usPrice": 5.39
+        "price": 1.535,
+        "usPrice": 2.695
       },
       {
         "title": "7_noTime",
-        "price": 3.39,
-        "usPrice": 5.59
+        "price": 1.695,
+        "usPrice": 2.795
       },
       {
         "title": "8_noTime",
-        "price": 3.47,
-        "usPrice": 5.89
+        "price": 1.735,
+        "usPrice": 2.945
       },
       {
         "title": "9_noTime",
-        "price": 3.47,
-        "usPrice": 6.09
+        "price": 1.735,
+        "usPrice": 3.045
       },
       {
         "title": "10_noTime",
-        "price": 3.64,
-        "usPrice": 6.29
+        "price": 1.82,
+        "usPrice": 3.145
       },
       {
         "title": "11_noTime",
-        "price": 4.04,
-        "usPrice": 7.19
+        "price": 2.02,
+        "usPrice": 3.595
       },
       {
         "title": "12_noTime",
-        "price": 4.36,
-        "usPrice": 9.99
+        "price": 2.18,
+        "usPrice": 4.995
       },
       {
         "title": "13_noTime",
-        "price": 5.09,
-        "usPrice": 10.89
+        "price": 2.545,
+        "usPrice": 5.445
       },
       {
         "title": "14_noTime",
-        "price": 8.09,
-        "usPrice": 16.29
+        "price": 4.045,
+        "usPrice": 8.145
       },
       {
         "title": "15_noTime",
-        "price": 8.82,
-        "usPrice": 18.99
+        "price": 4.41,
+        "usPrice": 9.495
       },
       {
         "title": "16_noTime",
-        "price": 11.74,
-        "usPrice": 26.19
+        "price": 5.87,
+        "usPrice": 13.095
       },
       {
         "title": "17_noTime",
-        "price": 14.57,
-        "usPrice": 34.69
+        "price": 7.285,
+        "usPrice": 17.345
       },
       {
         "title": "18_noTime",
-        "price": 20,
-        "usPrice": 43.39
+        "price": 10,
+        "usPrice": 21.695
       },
       {
         "title": "19_noTime",
-        "price": 29.77,
-        "usPrice": 63.99
+        "price": 14.885,
+        "usPrice": 31.995
       },
       {
         "title": "20_noTime",
-        "price": 85,
-        "usPrice": 151.3
+        "price": 42.5,
+        "usPrice": 75.65
       }
     ],
     "percents": [
       {
         "title": "x4 loot-traders",
-        "price": 0.4000225937641211
+        "price": 0.20001129688206054
       },
       {
         "title": "3k Mythic Score",
-        "price": 0.3000451875282422
+        "price": 0.1500225937641211
       }
     ]
   }
