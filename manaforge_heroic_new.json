@@ -1,0 +1,56 @@
+{
+  "manaforge_heroic_new": {
+    "koroheroic": [
+      {
+        "title": "8/8 BossesgroupLoot",
+        "price": 7.99,
+        "usPrice": 14.99
+      },
+      {
+        "title": "Unsaved Group Loot",
+        "price": 13.98,
+        "usPrice": 29.98
+      },
+      {
+        "title": "10_ATP",
+        "price": 38.99,
+        "usPrice": 71.98
+      },
+      {
+        "title": "15_ATP",
+        "price": 58.99,
+        "usPrice": 97.97999999999999
+      },
+      {
+        "title": "20_ATP",
+        "price": 68.99,
+        "usPrice": 119.97999999999999
+      },
+      {
+        "title": "26_ATP",
+        "price": 84.99,
+        "usPrice": 184.98000000000002
+      },
+      {
+        "title": "10 PlayersFP",
+        "price": 71.99,
+        "usPrice": 114.97999999999999
+      },
+      {
+        "title": "15 PlayersFP",
+        "price": 82.99,
+        "usPrice": 164.98000000000002
+      },
+      {
+        "title": "20 PlayersFP",
+        "price": 94.99,
+        "usPrice": 204.98000000000002
+      },
+      {
+        "title": "26 PlayersFP",
+        "price": 123.99,
+        "usPrice": 254.98000000000002
+      }
+    ]
+  }
+}
