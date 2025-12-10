@@ -1,62 +1,10 @@
 {
   "WorldsoulSearching": {
-    "data": [
-      {
-        "title": "Nerub-ar Palace",
-        "price": 5.3865,
-        "usPrice": 7.6
-      },
-      {
-        "title": "Liberation of Undermine",
-        "price": 5.3865,
-        "usPrice": 7.6
-      },
-      {
-        "title": "Manaforge Omega",
-        "price": 5.3865,
-        "usPrice": 7.6
-      },
-      {
-        "title": "All That Khaz",
-        "price": 137.7405,
-        "usPrice": 189.04999999999998
-      },
-      {
-        "title": "You Xal Not Pass",
-        "price": 110.0385,
-        "usPrice": 141.54999999999998
-      },
-      {
-        "title": "The War Within Pathfinder",
-        "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
-      },
-      {
-        "title": "Glory of the Delver",
-        "price": 76.1805,
-        "usPrice": 103.55
-      },
-      {
-        "title": "Going Goblin Mode",
-        "price": 20.006999999999998,
-        "usPrice": 27.549999999999997
-      },
-      {
-        "title": "Owner of a Radiant Heart",
-        "price": 29.241,
-        "usPrice": 40.85
-      },
-      {
-        "title": "Unraveled and Persevering",
-        "price": 68.4855,
-        "usPrice": 94.05
-      }
-    ],
     "data1": [
       {
         "title": "Full competition",
-        "price": 384.7405,
-        "usPrice": 522.4905
+        "price": 364.49100000000004,
+        "usPrice": 494.99100000000004
       }
     ]
   }
