@@ -50,6 +50,11 @@
         "title": "26 PlayersFP",
         "price": 123.99,
         "usPrice": 254.98000000000002
+      },
+      {
+        "title": "lol",
+        "price": 20,
+        "usPrice": 30
       }
     ]
   }
