@@ -24,22 +24,22 @@
       {
         "title": "10_noTime",
         "price": 3.64,
-        "usPrice": 5.92
+        "usPrice": 5.97
       },
       {
         "title": "11_noTime",
         "price": 4,
-        "usPrice": 6.38
+        "usPrice": 6.43
       },
       {
         "title": "12_noTime",
         "price": 4.36,
-        "usPrice": 8.93
+        "usPrice": 9.01
       },
       {
         "title": "13_noTime",
         "price": 5,
-        "usPrice": 9.86
+        "usPrice": 9.95
       },
       {
         "title": "14_noTime",
@@ -69,12 +69,12 @@
       {
         "title": "19_noTime",
         "price": 29.77,
-        "usPrice": 59.16
+        "usPrice": 59.67
       },
       {
         "title": "20_noTime",
         "price": 85,
-        "usPrice": 151.3
+        "usPrice": 152.6
       },
       {
         "title": "6_inTime",
@@ -99,22 +99,22 @@
       {
         "title": "10_inTime",
         "price": 3.64,
-        "usPrice": 5.92
+        "usPrice": 5.97
       },
       {
         "title": "11_inTime",
         "price": 4.8,
-        "usPrice": 7.77
+        "usPrice": 7.84
       },
       {
         "title": "12_inTime",
         "price": 5.23,
-        "usPrice": 10.79
+        "usPrice": 10.88
       },
       {
         "title": "13_inTime",
         "price": 6,
-        "usPrice": 11.6
+        "usPrice": 11.7
       },
       {
         "title": "14_inTime",
@@ -144,12 +144,12 @@
       {
         "title": "19_inTime",
         "price": 35.5,
-        "usPrice": 70.76
+        "usPrice": 71.37
       },
       {
         "title": "20_inTime",
         "price": 101.22,
-        "usPrice": 168.78
+        "usPrice": 170.23
       }
     ],
     "percents": [
