@@ -882,12 +882,12 @@
       {
         "title": "Automated Gnomeregan Guardian",
         "price": 42.8,
-        "usPrice": 47.5
+        "usPrice": 9999999
       },
       {
         "title": "Bejeweled Sin'dorei Lyre",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 9999999
       },
       {
         "title": "Bel'ameth Traveler's Pack",
@@ -902,17 +902,17 @@
       {
         "title": "Brill Coffin",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 13
       },
       {
         "title": "Brill Coffin Lid",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 13
       },
       {
         "title": "Brilliant Phoenix Harp",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 13
       },
       {
         "title": "Drained Dark Heart of Galakrond",
@@ -927,17 +927,17 @@
       {
         "title": "Foregground Market Bins",
         "price": 5.5,
-        "usPrice": 7.8
+        "usPrice": 9999999
       },
       {
         "title": "Gilnean Problem Solver",
         "price": 5.5,
-        "usPrice": 7.8
+        "usPrice": 13
       },
       {
         "title": "Gnomish Safety Flamethrower",
         "price": 42.8,
-        "usPrice": 47.5
+        "usPrice": 9999999
       },
       {
         "title": "Gob-chanical Trash Heap",
@@ -947,12 +947,12 @@
       {
         "title": "Heart of the Forest Banner",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 9999999
       },
       {
         "title": "Highmountain Tanner's Frame",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 13
       },
       {
         "title": "Kobold Trassure Pile",
@@ -972,12 +972,12 @@
       {
         "title": "Moonclasp Satchel",
         "price": 4.3,
-        "usPrice": 4.8
+        "usPrice": 9
       },
       {
         "title": "N'Zoth's Captured Eye",
         "price": 213,
-        "usPrice": 237
+        "usPrice": 9999999
       },
       {
         "title": "Ornamental Kaldorei Glaive",
@@ -987,12 +987,12 @@
       {
         "title": "Overgrown Arathi Trellis",
         "price": 21.4,
-        "usPrice": 23.8
+        "usPrice": 9999999
       },
       {
         "title": "Replica Haranir Mural",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 9999999
       },
       {
         "title": "Replica Tome of Blighted Implements",
@@ -1002,7 +1002,7 @@
       {
         "title": "?Rising Glory of Rukhmar? Statue",
         "price": 8.6,
-        "usPrice": 9.5
+        "usPrice": 9999999
       },
       {
         "title": "Shadowforge Grinding Wheel",
@@ -1012,7 +1012,7 @@
       {
         "title": "Shellscale Standard",
         "price": 8.6,
-        "usPrice": 9.5
+        "usPrice": 9999999
       },
       {
         "title": "Stormstout Brew Keg",
@@ -1022,12 +1022,12 @@
       {
         "title": "Tattered Vanguard Banner",
         "price": 21.4,
-        "usPrice": 23.8
+        "usPrice": 9999999
       },
       {
         "title": "Tauren Jeweler's Roller",
         "price": 6.48,
-        "usPrice": 7.6
+        "usPrice": 9
       },
       {
         "title": "Tauren Storyteller's Frame",
@@ -1037,7 +1037,7 @@
       {
         "title": "Thaldraszus Telescope",
         "price": 5.5,
-        "usPrice": 8.1
+        "usPrice": 13
       },
       {
         "title": "Vertical Felsteel Chain",
