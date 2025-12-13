@@ -2,12 +2,17 @@
   "bfaAchievements": {
     "Achievement": [
       {
-        "title": "Redundant Reclamation Rig",
+        "title": "Zandalari Wall Shelf",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Grand Mask of Bwonsamdi, Loa of Graves",
         "price": 12.4,
         "usPrice": 15.6
       },
       {
-        "title": "Grand Mask of Bwonsamdi, Loa of Graves",
+        "title": "Redundant Reclamation Rig",
         "price": 12.4,
         "usPrice": 15.6
       },
@@ -32,12 +37,12 @@
         "usPrice": 5.8
       },
       {
-        "title": "Gnomish T.O.O.L.B.O.X.",
+        "title": "Old Salt's Fireplace",
         "price": 4.5,
         "usPrice": 5.8
       },
       {
-        "title": "Old Salt's Fireplace",
+        "title": "Gnomish T.O.O.L.B.O.X.",
         "price": 4.5,
         "usPrice": 5.8
       },
@@ -52,9 +57,9 @@
         "usPrice": 15.6
       },
       {
-        "title": "Zandalari Wall Shelf",
-        "price": 4.5,
-        "usPrice": 5.8
+        "title": "Zuldazar Cook's Griddle",
+        "price": 12.4,
+        "usPrice": 15.6
       },
       {
         "title": "Dragon's Hoard Chest",
@@ -77,26 +82,6 @@
         "usPrice": 15.6
       },
       {
-        "title": "Golden Loa's Altar",
-        "price": 4.5,
-        "usPrice": 5.8
-      },
-      {
-        "title": "Tiragarde Treasure Chest",
-        "price": 9.6,
-        "usPrice": 12.3
-      },
-      {
-        "title": "Lordaeron Banded Barrel",
-        "price": 9.6,
-        "usPrice": 12.3
-      },
-      {
-        "title": "Lordaeron Spiked Weapon Rack",
-        "price": 9.6,
-        "usPrice": 12.3
-      },
-      {
         "title": "Gilnean Celebration Keg",
         "price": 9.6,
         "usPrice": 12.3
@@ -107,9 +92,24 @@
         "usPrice": 31.8
       },
       {
-        "title": "Zuldazar Cook's Griddle",
-        "price": 12.4,
-        "usPrice": 15.6
+        "title": "Lordaeron Spiked Weapon Rack",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Lordaeron Banded Barrel",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Tiragarde Treasure Chest",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Golden Loa's Altar",
+        "price": 4.5,
+        "usPrice": 5.8
       }
     ]
   }
