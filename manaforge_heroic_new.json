@@ -3,53 +3,53 @@
     "koroheroic": [
       {
         "title": "8/8 BossesgroupLoot",
-        "price": 7.99,
-        "usPrice": 14.99
+        "price": 7.191000000000001,
+        "usPrice": 13.491
       },
       {
         "title": "Unsaved Group Loot",
-        "price": 13.98,
-        "usPrice": 29.98
+        "price": 12.582,
+        "usPrice": 26.982
       },
       {
         "title": "10_ATP",
-        "price": 38.99,
-        "usPrice": 71.98
+        "price": 35.091,
+        "usPrice": 64.78200000000001
       },
       {
         "title": "15_ATP",
-        "price": 58.99,
-        "usPrice": 97.97999999999999
+        "price": 53.091,
+        "usPrice": 88.18199999999999
       },
       {
         "title": "20_ATP",
-        "price": 68.99,
-        "usPrice": 119.97999999999999
+        "price": 62.090999999999994,
+        "usPrice": 107.982
       },
       {
         "title": "26_ATP",
-        "price": 84.99,
-        "usPrice": 184.98000000000002
+        "price": 76.491,
+        "usPrice": 166.48200000000003
       },
       {
         "title": "10 PlayersFP",
-        "price": 71.99,
-        "usPrice": 114.97999999999999
+        "price": 64.791,
+        "usPrice": 103.482
       },
       {
         "title": "15 PlayersFP",
-        "price": 82.99,
-        "usPrice": 164.98000000000002
+        "price": 74.691,
+        "usPrice": 148.48200000000003
       },
       {
         "title": "20 PlayersFP",
-        "price": 94.99,
-        "usPrice": 204.98000000000002
+        "price": 85.491,
+        "usPrice": 184.48200000000003
       },
       {
         "title": "26 PlayersFP",
-        "price": 123.99,
-        "usPrice": 254.98000000000002
+        "price": 111.591,
+        "usPrice": 229.48200000000003
       }
     ]
   }
