@@ -4,57 +4,57 @@
       {
         "title": "Challenger's Dueling Flag",
         "price": 1.8,
-        "usPrice": 2.5
+        "usPrice": 3
       },
       {
         "title": "Horde Dueling Flag",
         "price": 2.3,
-        "usPrice": 3.2
+        "usPrice": 4
       },
       {
         "title": "Alliance Dueling Flag",
         "price": 4,
-        "usPrice": 6.5
+        "usPrice": 9
       },
       {
         "title": "Fortified Alliance Banner",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Fortified Horde Banner",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Alliance Battlefield Banner",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Horde Battlefield Banner",
         "price": 4.7,
-        "usPrice": 6.5
+        "usPrice": 9
       },
       {
         "title": "Uncontested Battlefield Banner",
         "price": 2.8,
-        "usPrice": 3.8
+        "usPrice": 5
       },
       {
         "title": "Netherstorm Battlefield Flag",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Silverwing Sentinels Flag",
         "price": 18.4,
-        "usPrice": 25.9
+        "usPrice": 39
       },
       {
         "title": "Warsong Outriders Flag",
         "price": 94.9,
-        "usPrice": 129.9
+        "usPrice": 199
       },
       {
         "title": "Smoke Lamppost",
