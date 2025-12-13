@@ -2,14 +2,19 @@
   "allAchievements": {
     "twwAchievements": [
       {
+        "title": "Rambleshire Resting Platform",
+        "price": 3.6,
+        "usPrice": 5.1
+      },
+      {
         "title": "Replica Dark Heart of Galakrond",
         "price": 118.9,
         "usPrice": 162.9
       },
       {
-        "title": "Rambleshire Resting Platform",
-        "price": 3.6,
-        "usPrice": 5.1
+        "title": "Dornogal Brazier",
+        "price": 4.7,
+        "usPrice": 6.5
       },
       {
         "title": "Boulder Springs Recliner",
@@ -22,29 +27,29 @@
         "usPrice": 3.2
       },
       {
-        "title": "Dornogal Brazier",
-        "price": 4.7,
-        "usPrice": 6.5
+        "title": "Fallside Storage Tent",
+        "price": 9.4,
+        "usPrice": 12.9
       },
       {
         "title": "Tome of Silvermoon Intrigue",
         "price": 2.8,
         "usPrice": 3.8
-      },
-      {
-        "title": "Fallside Storage Tent",
-        "price": 9.4,
-        "usPrice": 12.9
       }
     ],
     "bfaAchievements": [
       {
-        "title": "Redundant Reclamation Rig",
+        "title": "Zandalari Wall Shelf",
+        "price": 4.5,
+        "usPrice": 5.8
+      },
+      {
+        "title": "Grand Mask of Bwonsamdi, Loa of Graves",
         "price": 12.4,
         "usPrice": 15.6
       },
       {
-        "title": "Grand Mask of Bwonsamdi, Loa of Graves",
+        "title": "Redundant Reclamation Rig",
         "price": 12.4,
         "usPrice": 15.6
       },
@@ -69,12 +74,12 @@
         "usPrice": 5.8
       },
       {
-        "title": "Gnomish T.O.O.L.B.O.X.",
+        "title": "Old Salt's Fireplace",
         "price": 4.5,
         "usPrice": 5.8
       },
       {
-        "title": "Old Salt's Fireplace",
+        "title": "Gnomish T.O.O.L.B.O.X.",
         "price": 4.5,
         "usPrice": 5.8
       },
@@ -89,9 +94,9 @@
         "usPrice": 15.6
       },
       {
-        "title": "Zandalari Wall Shelf",
-        "price": 4.5,
-        "usPrice": 5.8
+        "title": "Zuldazar Cook's Griddle",
+        "price": 12.4,
+        "usPrice": 15.6
       },
       {
         "title": "Dragon's Hoard Chest",
@@ -114,26 +119,6 @@
         "usPrice": 15.6
       },
       {
-        "title": "Golden Loa's Altar",
-        "price": 4.5,
-        "usPrice": 5.8
-      },
-      {
-        "title": "Tiragarde Treasure Chest",
-        "price": 9.6,
-        "usPrice": 12.3
-      },
-      {
-        "title": "Lordaeron Banded Barrel",
-        "price": 9.6,
-        "usPrice": 12.3
-      },
-      {
-        "title": "Lordaeron Spiked Weapon Rack",
-        "price": 9.6,
-        "usPrice": 12.3
-      },
-      {
         "title": "Gilnean Celebration Keg",
         "price": 9.6,
         "usPrice": 12.3
@@ -144,9 +129,24 @@
         "usPrice": 31.8
       },
       {
-        "title": "Zuldazar Cook's Griddle",
-        "price": 12.4,
-        "usPrice": 15.6
+        "title": "Lordaeron Spiked Weapon Rack",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Lordaeron Banded Barrel",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Tiragarde Treasure Chest",
+        "price": 9.6,
+        "usPrice": 12.3
+      },
+      {
+        "title": "Golden Loa's Altar",
+        "price": 4.5,
+        "usPrice": 5.8
       }
     ],
     "legacyAchievements": [
@@ -409,57 +409,57 @@
       {
         "title": "Challenger's Dueling Flag",
         "price": 1.8,
-        "usPrice": 2.5
+        "usPrice": 3
       },
       {
         "title": "Horde Dueling Flag",
         "price": 2.3,
-        "usPrice": 3.2
+        "usPrice": 4
       },
       {
         "title": "Alliance Dueling Flag",
         "price": 4,
-        "usPrice": 6.5
+        "usPrice": 9
       },
       {
         "title": "Fortified Alliance Banner",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Fortified Horde Banner",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Alliance Battlefield Banner",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Horde Battlefield Banner",
         "price": 4.7,
-        "usPrice": 6.5
+        "usPrice": 9
       },
       {
         "title": "Uncontested Battlefield Banner",
         "price": 2.8,
-        "usPrice": 3.8
+        "usPrice": 5
       },
       {
         "title": "Netherstorm Battlefield Flag",
         "price": 9.4,
-        "usPrice": 12.9
+        "usPrice": 19
       },
       {
         "title": "Silverwing Sentinels Flag",
         "price": 18.4,
-        "usPrice": 25.9
+        "usPrice": 39
       },
       {
         "title": "Warsong Outriders Flag",
         "price": 94.9,
-        "usPrice": 129.9
+        "usPrice": 199
       },
       {
         "title": "Smoke Lamppost",
