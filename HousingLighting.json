@@ -3,17 +3,17 @@
     "largelights": [
       {
         "title": "Ancestral Signal Brazier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Ardenweald Lamppost",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Blackrock Lamppost",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -38,7 +38,7 @@
       },
       {
         "title": "Darkmaster's Mystical Brazier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -63,7 +63,7 @@
       },
       {
         "title": "Elven Temple Brazier",
-        "price": 12.8,
+        "price": 14.3,
         "usPrice": 14.3
       },
       {
@@ -83,22 +83,22 @@
       },
       {
         "title": "Frostwall Elevated Brazier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Grand Draenethyst Lamp",
-        "price": 34.2,
+        "price": 38,
         "usPrice": 38
       },
       {
         "title": "Gundargaz Candelabra",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Kyrian Floating Lamp",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -113,7 +113,7 @@
       },
       {
         "title": "Legion's Fel Torch",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -128,7 +128,7 @@
       },
       {
         "title": "Magister's Bookshelf",
-        "price": 21.4,
+        "price": 23.8,
         "usPrice": 23.8
       },
       {
@@ -138,12 +138,12 @@
       },
       {
         "title": "Mechanical Gnomish Lamppost",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "MOTHER's Titanic Brazier",
-        "price": 213.8,
+        "price": 237.5,
         "usPrice": 237.5
       },
       {
@@ -158,17 +158,17 @@
       },
       {
         "title": "Ornate Stonework Fireplace",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Pandaren Fireplace",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Pandaren Signal Brazier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -178,12 +178,12 @@
       },
       {
         "title": "Ren'dorei Lightpost",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Rugged Brazier",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -193,7 +193,7 @@
       },
       {
         "title": "Shattrath Lamppost",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -203,7 +203,7 @@
       },
       {
         "title": "Standing Smoke Lamp",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -213,7 +213,7 @@
       },
       {
         "title": "Sturdy Fireplace",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -223,22 +223,22 @@
       },
       {
         "title": "Thunder Totem Brazier",
-        "price": 21.4,
+        "price": 23.8,
         "usPrice": 23.8
       },
       {
         "title": "Tidesage's Fireplace",
-        "price": 21.4,
+        "price": 23.8,
         "usPrice": 23.8
       },
       {
         "title": "Trashfire Barrel",
-        "price": 17.1,
+        "price": 19,
         "usPrice": 19
       },
       {
         "title": "Tusked Fireplace",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -253,12 +253,12 @@
       },
       {
         "title": "Wingrest Signal Brazier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Wrought Iron Floor Lamp",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       }
     ],
@@ -280,32 +280,32 @@
       },
       {
         "title": "Dalaran Sun Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Dark Ship's Lantern",
-        "price": 8.6,
+        "price": 9.5,
         "usPrice": 9.5
       },
       {
         "title": "Dornogdal Hanging Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Draenethyst Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Filigree Moon Sconce",
-        "price": 12.8,
+        "price": 14.3,
         "usPrice": 14.3
       },
       {
         "title": "Horned Hanging Sconce",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -320,27 +320,27 @@
       },
       {
         "title": "Orgrimmar Sconce",
-        "price": 21.4,
+        "price": 23.8,
         "usPrice": 23.8
       },
       {
         "title": "Shadowforge Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Shattrath Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Smoke Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Suramar Sconce",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -365,7 +365,7 @@
       },
       {
         "title": "Zandalari Skullfire Lamp",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       }
     ],
@@ -382,27 +382,27 @@
       },
       {
         "title": "Dark Iron Chandelier",
-        "price": 21.4,
+        "price": 23.8,
         "usPrice": 23.8
       },
       {
         "title": "Dark Ship's Lantern",
-        "price": 8.6,
+        "price": 9.5,
         "usPrice": 9.5
       },
       {
         "title": "Draenei Crystal Chandelier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Draenethyst String Lights",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Elegant Elven Chandelier",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -412,22 +412,22 @@
       },
       {
         "title": "Hanging Mana Brazier",
-        "price": 28.5,
+        "price": 33.3,
         "usPrice": 33.3
       },
       {
         "title": "Iron Chain Chandelier",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Ironforge Chandelier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Kirin Tor Sun Chandelier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -437,17 +437,17 @@
       },
       {
         "title": "Mechagon Hanging Floodlight",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Mechagon Miniature Artificial Sun",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Schmancy Goblin String Lights",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -462,7 +462,7 @@
       },
       {
         "title": "Three-Candle Wrought Iron Chandelier",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -472,12 +472,12 @@
       },
       {
         "title": "Valdrakken Hanging Lamp",
-        "price": 12.8,
+        "price": 14.3,
         "usPrice": 14.3
       },
       {
         "title": "Wrought Iron Chandelier",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -489,7 +489,7 @@
     "smallLights": [
       {
         "title": "Admiralty's Copper Lantern",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -509,27 +509,27 @@
       },
       {
         "title": "Burning Amani Pinecone",
-        "price": 32.3,
+        "price": 42.3,
         "usPrice": 42.3
       },
       {
         "title": "City Wanderer's Candleholder",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Dalaran Sun Sconce",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Draenethyst Lantern",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Elegant Table Lamp",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
@@ -539,12 +539,12 @@
       },
       {
         "title": "Floating Azure Lantern",
-        "price": 47,
+        "price": 62.7,
         "usPrice": 62.7
       },
       {
         "title": "Hanging Mana Brazier",
-        "price": 28.5,
+        "price": 33.3,
         "usPrice": 33.3
       },
       {
@@ -559,7 +559,7 @@
       },
       {
         "title": "Kobold Candle Trio",
-        "price": 8.6,
+        "price": 9.5,
         "usPrice": 9.5
       },
       {
@@ -579,54 +579,54 @@
       },
       {
         "title": "Mark of the Mages' Eye",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Pandaren Table Lamp",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Sanctified Flame Lantern",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Sintallow Candles",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Small Telogrus Lamp",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Stone Zandalari Lamp",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Tirisfal Hollow Campfire",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Tusked Candleholder",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Wooden Chamberstick",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       }
     ],
     "miscellaneousLighting": [
       {
         "title": "Bejeweled Silvermoon Chandelier",
-        "price": 47,
+        "price": 62.7,
         "usPrice": 62.7
       },
       {
@@ -636,42 +636,42 @@
       },
       {
         "title": "Draenethyst Lantern",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Entropic Illuminant",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Gilded Vigil Post",
-        "price": 47,
+        "price": 62.7,
         "usPrice": 62.7
       },
       {
         "title": "Grand Draenethyst Lamp",
-        "price": 34.2,
+        "price": 38,
         "usPrice": 38
       },
       {
         "title": "Intense Mogu Brazier",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Legion's Fel Torch",
-        "price": 4.3,
+        "price": 4.8,
         "usPrice": 4.8
       },
       {
         "title": "Sanctified Flame Lantern",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
         "title": "Shadow Council Torch",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -681,7 +681,7 @@
       },
       {
         "title": "Shattrath Lamppost",
-        "price": 5.2,
+        "price": 5.7,
         "usPrice": 5.7
       },
       {
@@ -691,7 +691,7 @@
       },
       {
         "title": "Voidlight Brazier",
-        "price": 21.4,
+        "price": 23.8,
         "usPrice": 23.8
       },
       {
